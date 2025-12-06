@@ -1,2 +1,2 @@
-# Meine-Projekte
-Übungsprojekte zur Verbesserung meiner Programmierkenntnisse
+# My-project
+A collection of my practice and learning projects
